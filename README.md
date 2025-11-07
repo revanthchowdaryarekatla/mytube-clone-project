@@ -32,7 +32,10 @@ Visit:➡️https://revanthchowdaryarekatla.github.io/youtube-project/
 
 <img width="1863" height="973" alt="Screenshot 2025-11-07 134828" src="https://github.com/user-attachments/assets/28fe1f89-c5d6-4bf9-b975-aaabfd7de420" />
 
+---
 
 Author:
-Revanth Chowdary Arekatla
-GitHub Profile: revanthchowdaryarekatla
+➡️Revanth Chowdary Arekatla
+--
+GitHub Profile:
+➡️revanthchowdaryarekatla
