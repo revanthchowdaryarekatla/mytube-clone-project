@@ -36,6 +36,9 @@ p{
   display: grid;
   grid-template-columns: 40px 1fr;
 }
+.task-icon{
+  border-radius: 10px;
+}
   .vidgrid{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
