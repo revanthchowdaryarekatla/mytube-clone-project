@@ -26,7 +26,7 @@ No JavaScript, backend, or frameworks — just pure front-end design.
 ---
 
 #Live Preview
-Visit:➡️https://revanthchowdaryarekatla.github.io/youtube-project/
+Visit:➡️https://revanthchowdaryarekatla.github.io/mytube-clone-project/
 
 
 
