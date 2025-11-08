@@ -4,6 +4,12 @@ A *YouTube homepage clone* built entirely using *HTML and CSS*.
 This project recreates the visual layout of YouTube’s homepage — including the navbar, sidebar, and video thumbnails — without using JavaScript or frameworks.
 
 ---
+⚠ Disclaimer:
+This project is made only for educational and personal learning purposes.
+It is not affiliated with or endorsed by Amazon in any way.
+All product data and images are placeholders and no real transactions occur.
+
+---
 
 ## 🚀 Features
 
