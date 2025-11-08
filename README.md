@@ -5,7 +5,7 @@ This project recreates the visual layout of YouTube’s homepage — including t
 
 > ⚠ *Disclaimer:*  
 > This project is made *only for educational and personal learning purposes*.  
-> It is *not affiliated with or endorsed by Amazon* in any way.  
+> It is *not affiliated with or endorsed by Youtube* in any way.  
 > All product data and images are placeholders and no real transactions occur.
 
 ---
