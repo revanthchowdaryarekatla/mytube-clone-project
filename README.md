@@ -30,8 +30,8 @@ No JavaScript, backend, or frameworks — just pure front-end design.
 
 ---
 
-#Live Preview
-Visit:➡️https://revanthchowdaryarekatla.github.io/mytube-clone-project/
+# Live Preview
+Visit:➡️https://revanthchowdaryarekatla.github.io/MYTube/
 
 
 
